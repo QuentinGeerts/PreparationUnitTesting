@@ -1,0 +1,11 @@
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.deps.json
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.dll
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.pdb
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.dll
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\refint\QuadraticEquationSolver.dll
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.pdb
+C:\Users\Quentin\RiderProjects\PreparationUnitTesting\QuadraticEquationSolver\obj\Debug\net8.0\ref\QuadraticEquationSolver.dll
